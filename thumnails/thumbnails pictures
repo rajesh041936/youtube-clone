@@ -1,1 +1,5 @@
-...
+The thumbnails folder contains the preview images (thumbnails) for each video displayed in the main video grid of the YouTube clone interface. 
+These images represent the video content visually, similar to how YouTube showcases videos on its homepage.
+Each thumbnail is paired with video metadata such as the title, channel name, view count, and duration to simulate a realistic and familiar layout.
+
+The thumbnails are statically embedded in the HTML and styled with CSS to maintain consistent sizing, spacing, and alignment within the video preview cards.
