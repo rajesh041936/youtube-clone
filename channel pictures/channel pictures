@@ -1,1 +1,5 @@
-...
+The channel-pictures folder contains profile images of the YouTube channels featured in the video grid. 
+These images are displayed next to each video thumbnail to visually represent the content creator, mimicking the layout of the actual YouTube interface.
+Each image is used as part of the video card design to enhance realism and provide a more complete clone of the platform's appearance.
+
+All images are statically linked in the HTML and styled with CSS for consistent sizing and alignment within the video information section.
