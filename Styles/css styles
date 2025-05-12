@@ -1,0 +1,13 @@
+The styles folder contains all the CSS files responsible for styling the YouTube clone interface. 
+Each CSS file is modularized to target specific sections of the layout, making the code more organized, readable, and maintainable.
+This separation of concerns allows for easier updates and scalability as the project grows.
+
+general.css: Contains global styles, CSS resets, font imports, and utility classes used throughout the project.
+
+header.css: Styles the top navigation bar, including the logo, search bar, icons, and tooltip hover effects.
+
+sidebar.css: Handles the layout and appearance of the vertical sidebar, including icon alignment and hover interactions.
+
+video.css: Defines the grid layout for video previews and styles for thumbnails, channel pictures, and video metadata.
+
+This folder ensures the visual structure and aesthetics of the clone closely resemble the real YouTube interface using only HTML and CSS.
